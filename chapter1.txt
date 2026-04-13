@@ -1,0 +1,3 @@
+LM Prompt Example: "Write the opening paragraph (around 100 words) for a
+fantasy story called 'The Whispering Woods Chronicle' about a mysterious map
+found by a young villager."
